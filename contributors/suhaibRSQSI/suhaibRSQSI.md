@@ -1,6 +1,8 @@
 ---
-name: Suhaib
-github_user: SuhaibRSQSI
-url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/110
-contact: 87xxxxxxxx
+name: suhaibRSQSI
+github_user: SuhaibMohamed
+contact: 788xxxxxxxxxxxxxxxx
+your_favroite_programming_language: JS
+your_hosted_github_pages_link: https://suhaibrsqsi.github.io/myRepo/
+your_hosted_github_pages_repository_link: https://github.com/SuhaibRSQSI/myRepo
 ---
